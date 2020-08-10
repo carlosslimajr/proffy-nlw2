@@ -1,0 +1,1 @@
+declare module '*.png'; //importar arquivos png !
