@@ -1,0 +1,60 @@
+{
+  //adicionando emmet para o react
+  "emmet.syntaxProfiles": {
+      "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+      "njk": "html",
+  },
+  "emmet.includeLanguages": {
+      "njk": "html"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "atomKeymap.promptV3Features": true,
+  "workbench.activityBar.visible": true,
+  "editor.minimap.enabled": false,
+  "terminal.integrated.fontSize": 14,
+  "editor.renderControlCharacters": true,
+  "window.zoomLevel": 0,
+  //configura tamhno e famlia da fonte
+  "editor.columnSelection": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 24,
+  "editor.renderLineHighlight": "gutter",
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "extensions.ignoreRecommendations": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "breadcrumbs.enabled": true,
+  "editor.rulers": [
+      80,
+      120
+  ],
+  "editor.fontSize": 15,
+  "[json]": {
+      "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "Omni",
+  "explorer.confirmDelete": false,
+  "sync.gist": "158d480a37dcba005c1376e15a59516b",
+  "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+      "*.ts": "typescript"
+  }
+}
